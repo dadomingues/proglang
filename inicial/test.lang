@@ -1,0 +1,25 @@
+if 1 :eq 1 then
+    print "hello"
+endif
+
+
+$var = "Hello"
+
+$abc = 10+544+(30**2-2540)//4%3
+
+# um comentario
+
+input "Entre com seu nome:" $name
+let $x 10
+
+let $y 15; print "teste"
+
+if 1 :ne 3 then
+    print "diferente"
+else
+    print "igual"
+endif
+
+loop 1 :to 5 do
+    print "daniel"
+endloop
