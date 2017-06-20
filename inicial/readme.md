@@ -15,3 +15,6 @@ Pode-se passar por parâmetro:
 - parse: gera os tokens e realiza o parse
 - tree: gera os tokens, realiza o parse e gera a árvore estruturada do "dancode" :D
 
+    python3 lang.py test.lang tree
+    
+   
